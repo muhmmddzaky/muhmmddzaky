@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/dzakymuhammad03"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/muhmmddzaky"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:mhmmddzaky03@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/muhmmddzaky"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
@@ -84,6 +84,7 @@ Hi, I'm **Muhammad Dzaky** (Kiboo), a **Software Engineering Technology (D4)** s
 
 ## 🏆 Certifications & Achievements
 
+- 🤖 **Gemini Certified Student – University**, Google for Education (Sep 2026 – Sep 2029)
 - 🥈 Semi-Finalist, **IMAGEPRENEUR 2025** "Tech for Change" (team BestCorp), IMAGE UPI
 - 🎨 Certificate of Appreciation, Design Graphics & Motion Graphics collaborative project, LIA Bogor × IPB Vocational School (2025)
 - 📘 **The 7 Habits of Highly Effective New College Student**, FranklinCovey × Dunamis (2024, score 92 / Excellent)
@@ -96,7 +97,7 @@ I'm always happy to talk about web development, Web GIS, or collaboration on stu
 
 <div align="center">
 
-📫 **mhmmddzaky03@gmail.com** &nbsp;|&nbsp; 💼 [www.linkedin.com/in/muhmmddzaky](https://www.linkedin.com/in/muhmmddzaky)
+📫 **mhmmddzaky03@gmail.com** &nbsp;|&nbsp; 💼 [linkedin.com/in/muhmmddzaky](https://www.linkedin.com/in/muhmmddzaky)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer" />
 
