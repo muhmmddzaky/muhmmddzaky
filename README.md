@@ -1,4 +1,4 @@
-<!-- Put this file in a repo named exactly like your username: mhmmddzaky03-wq/mhmmddzaky03-wq -->
+<!-- Put this file in a repo named exactly like your username: muhmmddzaky/muhmmddzaky -->
 
 <div align="center">
 
@@ -12,9 +12,9 @@
 
 <a href="https://www.linkedin.com/in/dzakymuhammad03"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:mhmmddzaky03@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/mhmmddzaky03-wq"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/muhmmddzaky"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=mhmmddzaky03-wq&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=muhmmddzaky&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
@@ -72,7 +72,7 @@ Hi, I'm **Muhammad Dzaky** (Kiboo), a **Software Engineering Technology (D4)** s
 | 🌾 **PertanianInovatif** | Android AR app built in Unity with Vuforia. | `Unity` `Vuforia` |
 | 📊 **Data Mining in R** | CRISP-DM pipeline (EDA, regression, decision tree, K-Means) on the Ames Housing dataset, plus K-Means clustering of Indonesian regencies/cities. | `R` `RMarkdown` |
 
-<!-- Add repo/demo links here once they are public, e.g. [Repo](https://github.com/mhmmddzaky03-wq/<repo-name>) -->
+<!-- Add repo/demo links here once they are public, e.g. [Repo](https://github.com/muhmmddzaky/<repo-name>) -->
 
 ---
 
@@ -94,12 +94,12 @@ Hi, I'm **Muhammad Dzaky** (Kiboo), a **Software Engineering Technology (D4)** s
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mhmmddzaky03-wq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmddzaky03-wq&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhmmddzaky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhmmddzaky&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=mhmmddzaky03-wq&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=muhmmddzaky&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
