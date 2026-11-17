@@ -14,8 +14,6 @@
 <a href="mailto:mhmmddzaky03@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0F?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email" /></a>
 <a href="https://github.com/muhmmddzaky"><img src="https://img.shields.io/badge/GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=muhmmddzaky&label=Profile%20views&color=A78BFA&labelColor=0A0A0F&style=flat" alt="profile views" />
-
 </div>
 
 ---
