@@ -90,28 +90,13 @@ Hi, I'm **Muhammad Dzaky** (Kiboo), a **Software Engineering Technology (D4)** s
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhmmddzaky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhmmddzaky&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=muhmmddzaky&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always happy to talk about web development, Web GIS, or collaboration on student projects.
 
 <div align="center">
 
-📫 **mhmmddzaky03@gmail.com** &nbsp;|&nbsp; 💼 [linkedin.com/in/dzakymuhammad03](https://www.linkedin.com/in/dzakymuhammad03)
+📫 **mhmmddzaky03@gmail.com** &nbsp;|&nbsp; 💼 [www.linkedin.com/in/muhmmddzaky](https://www.linkedin.com/in/muhmmddzaky)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer" />
 
