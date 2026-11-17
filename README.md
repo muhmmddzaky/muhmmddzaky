@@ -85,21 +85,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhmmddzaky&show_icons=true&hide_border=false&count_private=true&bg_color=0A0A0F&title_color=A78BFA&text_color=E5E7EB&icon_color=A78BFA&border_color=2A2A35" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhmmddzaky&layout=compact&bg_color=0A0A0F&title_color=A78BFA&text_color=E5E7EB&border_color=2A2A35" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=muhmmddzaky&background=0A0A0F&border=2A2A35&ring=A78BFA&fire=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=9CA3AF" alt="GitHub streak" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 Happy to talk about web development, Web GIS, or collaborating on student projects.
