@@ -1,124 +1,80 @@
 <div align="center">
 
-<a href="https://mhmmddzaky.vercel.app/"><sub>PORTFOLIO ↗</sub></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/muhmmddzaky"><sub>LINKEDIN ↗</sub></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:mhmmddzaky03@gmail.com"><sub>EMAIL ↗</sub></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,55:101014,100:1B1B20&height=190&section=header&text=Muhammad%20Dzaky&fontSize=54&fontColor=F5F5F5&fontAlignY=40&desc=SOFTWARE%20ENGINEERING%20%2F%20FULL-STACK%20DEVELOPER&descSize=13&descColor=A1A1AA&descAlignY=68&animation=fadeIn" />
+
+<br/>
+
+<a href="https://mhmmddzaky.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/muhmmddzaky"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mhmmddzaky03@gmail.com"><img src="https://img.shields.io/badge/CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-# Muhammad <i>Dzaky.</i>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=900&color=C4C4CC&center=true&vCenter=true&width=620&lines=Building+thoughtful+digital+experiences.;Web+%2F+Mobile+%2F+APIs+%2F+Web+GIS;Clean+architecture.+Purposeful+interfaces." />
 
-### Pengembang Basis Data · Software Engineering Student
+</div>
+
+---
+
+<div align="center">
+  <sub>01 — INTRODUCTION</sub>
+</div>
+
+## A little about me.
+
+I'm a **Software Engineering Technology student at IPB University** (D4, class of 2024), interested in building reliable web and mobile applications, REST APIs, and practical digital solutions.
+
+- 📍 Depok, Indonesia
+- 🧭 Currently working on **SADAR Edu** — a Web GIS decision-support system
+- 💡 Interested in full-stack development, GIS, and application security
+- ✉️ Open to collaboration and developer opportunities
+
+---
+
+<div align="center">
+  <sub>02 — TOOLKIT</sub>
+</div>
+
+## Technologies I work with.
 
 <p align="center">
-  Mahasiswa Teknologi Rekayasa Perangkat Lunak di IPB University yang<br/>
-  berdedikasi membangun aplikasi web andal, topologi komponen yang bersih,<br/>
-  dan arsitektur digital yang mudah dipelihara.
+  <img src="https://skillicons.dev/icons?i=js,php,py,r,html,css,nextjs,react,laravel,mysql,postgres,mongodb,firebase,git,github,postman,unity&theme=dark" />
 </p>
 
-<sub>⌖ DEPOK, INDONESIA &nbsp;·&nbsp; IPB UNIVERSITY &nbsp;·&nbsp; OPEN TO OPPORTUNITIES</sub>
-
-<br/><br/>
-
-<a href="https://mhmmddzaky.vercel.app/"><strong>Jelajahi Portfolio&nbsp; ↗</strong></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/muhmmddzaky">GitHub</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/muhmmddzaky">LinkedIn</a>
-
-</div>
-
----
-
-<div align="center">
-  <sub>01 &nbsp; / &nbsp; PROFILE</sub>
-</div>
-
-## Tentang <i>Saya.</i>
-
-Saya **Muhammad Dzaky**, mahasiswa Teknologi Rekayasa Perangkat Lunak (D4) di **Sekolah Vokasi IPB University**, angkatan 2024.
-
-Saya berfokus pada pengembangan aplikasi web dan mobile, REST API, serta eksplorasi teknologi untuk menyelesaikan permasalahan nyata. Saya menyukai struktur kode yang rapi, antarmuka yang intuitif, dan sistem yang mudah dikembangkan.
-
-| | |
-|:--|:--|
-| **Pendidikan** | Teknologi Rekayasa Perangkat Lunak — IPB University |
-| **Lokasi** | Depok, Jawa Barat, Indonesia |
-| **Fokus saat ini** | SADAR Edu — Web GIS untuk mendukung perencanaan kebutuhan SMP di Kabupaten Bogor |
-| **Minat lainnya** | Security testing (OWASP ZAP), technical documentation |
-| **Akademik** | Web development, data mining, cloud computing, mobile development, GIS |
-| **Kesempatan** | Full-Stack / Web Developer |
-
----
-
-<div align="center">
-  <sub>02 &nbsp; / &nbsp; CAPABILITIES</sub>
-</div>
-
-## Keahlian <i>Teknis.</i>
-
-<sub>BAHASA PEMROGRAMAN</sub>
-
-<p>
-<img src="https://skillicons.dev/icons?i=py,js,php,r,html,css&theme=dark" />
-</p>
-
-<sub>FRONT-END & MOBILE</sub>
-
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react&theme=dark" />
-<img src="https://img.shields.io/badge/Expo-0B0B0D?style=flat-square&logo=expo&logoColor=E8E8EA" />
-</p>
-
-<sub>BACK-END & DATABASE</sub>
-
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,mysql,postgres,mongodb,firebase&theme=dark" />
-</p>
-
-<sub>TOOLS & PLATFORMS</sub>
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,unity&theme=dark" />
-<img src="https://img.shields.io/badge/QGIS-0B0B0D?style=flat-square&logo=qgis&logoColor=E8E8EA" />
-<img src="https://img.shields.io/badge/OWASP_ZAP-0B0B0D?style=flat-square&logo=owasp&logoColor=E8E8EA" />
+<p align="center">
+  <img src="https://img.shields.io/badge/EXPO-111111?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/QGIS-111111?style=flat-square&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-111111?style=flat-square&logo=owasp&logoColor=white" />
 </p>
 
 ---
 
 <div align="center">
-  <sub>03 &nbsp; / &nbsp; SELECTED WORK</sub>
+  <sub>03 — SELECTED WORK</sub>
 </div>
 
-## Karya <i>Pilihan.</i>
-
-Beberapa proyek yang pernah saya kerjakan dalam pengembangan aplikasi, sistem informasi, dan eksplorasi teknologi.
+## Things I've built.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<sub>01 &nbsp;·&nbsp; WEB GIS</sub>
+**01 / SADAR Edu**  
+<sub>WEB GIS · DECISION SUPPORT</sub>
 
-### SADAR Edu
+A Web GIS system identifying areas in Kabupaten Bogor that need additional junior high school services.
 
-Sistem pendukung keputusan berbasis Web GIS untuk mengidentifikasi wilayah di Kabupaten Bogor yang membutuhkan layanan Sekolah Menengah Pertama (SMP).
+`QGIS` `PostgreSQL` `PostGIS`
 
-**Peran:** Front-end Developer & GIS Analyst  
-**Tim:** 5 orang · Agile Scrum · 15 sprint mingguan
-
-`QGIS` `PostgreSQL/PostGIS` `Web GIS`
+<sub>Role: Front-end Developer & GIS Analyst · 5-person Agile team</sub>
 
 </td>
 <td width="50%" valign="top">
 
-<sub>02 &nbsp;·&nbsp; FINANCIAL SYSTEM</sub>
+**02 / Tandis Bakery**  
+<sub>WEB APP · FINANCIAL SYSTEM</sub>
 
-### Tandis Bakery
-
-Sistem keuangan berbasis web untuk bisnis bakery. Mengembangkan front-end, melakukan pengujian keamanan menggunakan OWASP ZAP, memperbarui ERD, dan turut menyusun laporan akhir 162 halaman.
+A bakery financial management system. Worked on the frontend, security testing, ERD updates, and technical documentation.
 
 `Laravel` `MySQL` `OWASP ZAP`
 
@@ -127,22 +83,20 @@ Sistem keuangan berbasis web untuk bisnis bakery. Mengembangkan front-end, melak
 <tr>
 <td width="50%" valign="top">
 
-<sub>03 &nbsp;·&nbsp; WEB & MOBILE</sub>
+**03 / Puncak Traveller**  
+<sub>WEB · MOBILE · PAYMENTS</sub>
 
-### Puncak Traveller
-
-Website dan aplikasi mobile untuk agen perjalanan dan aktivitas outdoor, dilengkapi integrasi pembayaran Midtrans.
+A travel and outdoor platform with website, mobile app, and Midtrans payment integration.
 
 `Next.js` `Expo` `Laravel` `MongoDB`
 
 </td>
 <td width="50%" valign="top">
 
-<sub>04 &nbsp;·&nbsp; BACK-END</sub>
+**04 / Firebase REST API**  
+<sub>BACK-END · API</sub>
 
-### Firebase REST API
-
-REST API dengan operasi CRUD lengkap pada Firebase Realtime Database dan pengujian endpoint menggunakan Postman.
+A REST API implementing full CRUD operations with Firebase Realtime Database, tested in Postman.
 
 `Firebase` `Postman`
 
@@ -151,22 +105,20 @@ REST API dengan operasi CRUD lengkap pada Firebase Realtime Database dan penguji
 <tr>
 <td width="50%" valign="top">
 
-<sub>05 &nbsp;·&nbsp; AUGMENTED REALITY</sub>
+**05 / PertanianInovatif**  
+<sub>ANDROID · AUGMENTED REALITY</sub>
 
-### PertanianInovatif
-
-Aplikasi Android berbasis Augmented Reality yang dikembangkan menggunakan Unity dan Vuforia.
+An Android AR application built to explore agricultural information and experiences.
 
 `Unity` `Vuforia`
 
 </td>
 <td width="50%" valign="top">
 
-<sub>06 &nbsp;·&nbsp; DATA ANALYSIS</sub>
+**06 / Data Mining in R**  
+<sub>DATA ANALYSIS · MACHINE LEARNING</sub>
 
-### Data Mining in R
-
-Alur CRISP-DM yang mencakup EDA, regresi, decision tree, dan K-Means pada dataset Ames Housing, serta clustering kabupaten/kota di Indonesia.
+A CRISP-DM workflow using EDA, regression, decision trees, and K-Means on housing and Indonesian regional datasets.
 
 `R` `RMarkdown`
 
@@ -174,59 +126,53 @@ Alur CRISP-DM yang mencakup EDA, regresi, decision tree, dan K-Means pada datase
 </tr>
 </table>
 
-<sub>Catatan: tautan repository dan demo akan ditambahkan ketika proyek tersedia secara publik.</sub>
-
 ---
 
 <div align="center">
-  <sub>04 &nbsp; / &nbsp; EXPERIENCE</sub>
+  <sub>04 — EXPERIENCE & RECOGNITION</sub>
 </div>
 
-## Pengalaman <i>Organisasi.</i>
+## Beyond the code.
 
-| Posisi | Organisasi | Periode |
-|:--|:--|:--|
-| **Ketua Angkatan** | Teknologi Rekayasa Perangkat Lunak, SV IPB University | 2025 – Des 2026 |
-| **Staff, Sports Department** | BEM Sekolah Vokasi IPB — Kabinet Mahakarsa | 2024/2025 |
-| **Executive Committee** | VISCO 2025, BEM SV IPB | 2025 |
+| Experience | |
+|:--|:--|
+| **Cohort Head** — Software Engineering Technology, IPB Vocational School | 2025–2026 |
+| **Sports Department Staff** — BEM IPB Vocational School, Mahakarsa Cabinet | 2024/25 |
+| **Executive Committee** — VISCO 2025 | 2025 |
 
----
+**Highlights**
 
-<div align="center">
-  <sub>05 &nbsp; / &nbsp; RECOGNITION</sub>
-</div>
-
-## Sertifikasi & <i>Pencapaian.</i>
-
-- **Gemini Certified Student – University** — Google for Education (Sep 2026 – Sep 2029)
-- Semi-Finalist, **IMAGEPRENEUR 2025** — “Tech for Change” (tim BestCorp), IMAGE UPI
-- Certificate of Appreciation — Collaborative Design Graphics & Motion Graphics Project, LIA Bogor × IPB Vocational School (2025)
-- **The 7 Habits of Highly Effective New College Student** — FranklinCovey × Dunamis (2024, skor 92 / Excellent)
+- 🤖 Gemini Certified Student – University · Google for Education (2026–2029)
+- 🥈 Semi-Finalist · IMAGEPRENEUR 2025, “Tech for Change” (BestCorp)
+- 🎨 Design Graphics & Motion Graphics · LIA Bogor × IPB Vocational School
+- 📘 The 7 Habits of Highly Effective New College Student · Score 92
 
 ---
 
 <div align="center">
 
-<sub>06 &nbsp; / &nbsp; GET IN TOUCH</sub>
+<sub>05 — LET'S CONNECT</sub>
 
-## Mari <i>Terhubung.</i>
+## Have something in mind?
 
-Terbuka untuk diskusi seputar web development, Web GIS, dan kolaborasi proyek.
+I'm always up for conversations about **web development, Web GIS, and building useful products.**
 
 <br/>
 
-<a href="mailto:mhmmddzaky03@gmail.com"><strong>mhmmddzaky03@gmail.com ↗</strong></a>
+<a href="mailto:mhmmddzaky03@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-FFFFFF?style=for-the-badge&logo=gmail&logoColor=111111" /></a>
 
 <br/><br/>
 
-<a href="https://mhmmddzaky.vercel.app/">PORTFOLIO</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/muhmmddzaky">LINKEDIN</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/muhmmddzaky">GITHUB</a>
+<a href="https://mhmmddzaky.vercel.app/">Website</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/muhmmddzaky">GitHub</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/muhmmddzaky">LinkedIn</a>
 
 <br/><br/>
 
-<sub>DESIGNED WITH INTENTION · MUHAMMAD DZAKY</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B1B20,100:050505&height=75&section=footer" />
+
+<sub>DESIGNED & BUILT BY MUHAMMAD DZAKY</sub>
 
 </div>
